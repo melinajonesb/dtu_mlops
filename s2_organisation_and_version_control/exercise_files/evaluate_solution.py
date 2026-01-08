@@ -1,4 +1,5 @@
 import torch
+import math
 import typer
 from data import corrupt_mnist
 from model import MyAwesomeModel
